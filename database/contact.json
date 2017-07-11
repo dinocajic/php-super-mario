@@ -1,0 +1,15 @@
+[
+  {
+    "name":"Super Mario Fan Club",
+    "email":{
+      "one":"dcajic1@student.gsu.edu",
+      "two":"dmalikian1@student.gsu.edu"
+    },
+    "address":{
+      "street":"1500 Something Lane",
+      "city":"Kennesaw",
+      "state":"Georgia",
+      "zip":30152
+    }
+  }
+]

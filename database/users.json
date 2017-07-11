@@ -1,0 +1,44 @@
+{
+  "0": {
+    "id":0,
+    "name":"Dino Cajic",
+    "user_name":"dinocajic",
+    "password":"supermario",
+    "type":"admin",
+    "age":"29",
+    "address":{
+      "street":"1500 Something Lane",
+      "city":"Kennesaw",
+      "state":"GA",
+      "zip":"30152"
+    }
+  },
+  "1":{
+    "id":1,
+    "name":"Derek Malikian",
+    "user_name":"derekmalikian",
+    "password":"luigi",
+    "type":"admin",
+    "age":31,
+    "address":{
+      "street":"1000 Brooklyn Road",
+      "city":"Smyrna",
+      "state":"GA",
+      "zip":30060
+    }
+  },
+  "3":{
+    "id":3,
+    "name":"Some Guy",
+    "user_name":"someguy",
+    "password":"something",
+    "type":"regular",
+    "age":"32",
+    "address":{
+      "street":"234 Something Lane",
+      "city":"Atlanta",
+      "state":"GA",
+      "zip":"33333"
+    }
+  }
+}
