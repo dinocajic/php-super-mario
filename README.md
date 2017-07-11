@@ -10,12 +10,12 @@ For example, if you were to visit the about page (?page=about), index.php would 
 existance of the about page in the config.php file and then call the AboutController class.
 
 For administrative demo
-Username: dinocajic
-Password: supermario
+- Username: dinocajic
+- Password: supermario
 
 For non-administrative demo
-Username: someguy
-Password: something
+- Username: someguy
+- Password: something
 
 Or you can create your own account by clicking on the register link next to the login button.
 
