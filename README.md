@@ -2,6 +2,8 @@
 
 For Educational Purposes Only
 
+See a demo on http://dinocajic.xyz/projects/php-super-mario/
+
 Uses JSON instead of database since assignment called for no traditional database access. 
 You should be able to download and run without any configuration.
 
