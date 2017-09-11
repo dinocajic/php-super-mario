@@ -19,8 +19,7 @@ class IndexView {
                     <div id="frontImage"></div>
                     <div>
                         <p>Project by:</p>
-                        <p>Dino Cajic &</p>
-                        <p>Derek Malikian</p>
+                        <p>Dino Cajic</p>
                     </div>
                 </div>
                 <div id="back"></div>
